@@ -4,7 +4,7 @@ Soy una mujer proactiva, excelente compañera, organizada y responsable. Mi mayo
 
 ## 👩‍💻 Experiencia Laboral
 
-### Asistente de Ventas
+### Administración de Base de datos
 Regala Orquídeas | Ene 2020 – Dic 2021
 - Gestión de proveedores.
 
