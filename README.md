@@ -13,15 +13,15 @@ Gobernación de Antioquia | Jul 2023 - Dic 2023
 - Toma de requerimientos.
 - Desarrollo del software en: PHP, PostgreSQL, Laravel.
 
-### Desarrolladora Web
-Nautas Busos | Jul 2022 - Dic 2022
-- Toma de requerimientos.
-- Desarrollo del software en: HTML, CSS, JavaScript, MySQL, Node.js.
+### Desarrolladora backend
+Mantum | May 2024 - Actual
+- Desarrollo de microservicios.
+- Desarrollo de apis y consumo optimo de base de datos.
 
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación:** PHP, JavaScript, HTML, CSS.
-- **Frameworks:** Laravel.
+- **Frameworks:** Laravel. React js
 - **Base de Datos:** PostgreSQL, MySQL.
 - **Desarrollo Web:** HTML, CSS, JavaScript, Bootstrap.
 - **Desarrollo Frontend:** HTML, CSS, Bootstrap, JavaScript.
