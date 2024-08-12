@@ -16,7 +16,7 @@ Gobernación de Antioquia | Jul 2023 - Dic 2023
 ### Desarrolladora backend
 Mantum | May 2024 - Actual
 - Desarrollo de microservicios.
-- Desarrollo de apis y consumo optimo de base de datos.
+- Desarrollo de apis y consumo óptimo de base de datos.
 
 ## 🚀 Habilidades
 
